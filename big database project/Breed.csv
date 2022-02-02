@@ -1,0 +1,206 @@
+Animal_Breed_ID,Animal_Catagory_ID,Animal_breed
+1,1,Retriever (labrador)
+2,1,French Bulldog
+3,1,German Shepherd Dog
+4,1,Retriever (Golden)
+5,1,Bulldog
+6,1,Poodle
+7,1,Beagle
+8,1,Rottweiler
+9,1,Pointers (German Shorthaired)
+10,1,Dachshunds
+11,1,Afador
+12,1,Affenhuahua
+13,1,Affenpinscher
+14,1,Afghan Hound
+15,1,Airedale Terrier
+16,1,Akbash
+17,1,Akita
+18,1,Akita Chow
+19,1,Akita Pit
+20,1,Akita Shepard
+21,1,Alaskan Klee Kai
+22,1,Alaskan Malamute
+23,1,American Bulldog
+24,1,American English Coonhound
+25,1,American Eskimo Dog
+26,1,American Foxhound
+27,1,American Hairless Terrier
+29,1,American Leopard Hound
+30,1,American Pit Bull Terrier
+31,1,American Pugabull
+32,1,American Staffordahire Terrier
+33,1,American Water Spaniel
+34,1,Anatolian Shepherd Dog
+35,1,Appenzeller Sennenhunde
+36,1,Auggie
+37,1,Aussiedoodle
+38,1,Aussiepom
+39,1,Australian Cattle Dog
+40,1,Australian Kelpie
+41,1,Australian Shepherd
+42,1,Australian Shepherd Husky
+43,1,Australian Stumpy Tail Cattle Dog
+44,1,Australian Shepherd Lab Mix
+45,1,Australian Shepherd Pit Bull Mix
+46,1,Australian Terrier
+47,1,Azawakh
+48,1,Barbet
+49,1,Basenji
+50,1,Bassador
+51,1,Basset Fauve de Bretagne
+52,1,Basset Hound
+53,1,Basset Retriever
+54,1,Bavarian Mountain Scent Hound
+55,1,Beabull
+56,1,Beaglier
+57,1,Beareded Collie
+58,1,Bedlington Terrier
+59,1,Belgian Laekenois 
+60,1,Belgain Malinois
+61,1,Belgian Sheepdog
+62,1,Belgain tervuran
+63,1,Bergamasco Sheepdog 
+64,1,Berger Picard
+65,1,Bernedoodle
+66,1,Bernese Mountain Dog
+67,1,Bichon Frise
+68,1,Biewer Terrier
+69,1,Black and Tan Coonhound
+70,1,Black mouth Cur
+71,2,Persian Cat
+72,2,Maine Coon
+73,2,Bengal Cat
+74,2,British Shorthair
+75,2,Siamese Cat
+76,2,Sphynx Cat
+77,2,Ragdoll
+78,2,Munchkin Cat
+79,2,Scottish Fold
+80,2,Norwegian Forest Cat
+81,2,Savannah Cat
+82,2,Siberian Cat
+83,2,American Shorthair
+84,2,Exotic Shorthair
+85,2,Russian Blue
+86,2,Turkish Angora
+87,2,Himalayan
+88,2,Chartreux
+89,2,European shorthair
+90,2,Birman
+91,2,Abyssinian
+92,2,Toyger
+93,2,Ragamuffin
+94,2,Kinkalow
+95,2,Bombay Cat
+96,2,Singapura Cat
+97,2,Burmese Cat
+98,2,Somali Cat
+99,2,Oriental Shorthair
+100,2,Manx Cat
+101,2,American Curl
+102,2,Van Cat
+103,2,British Longhair
+104,2,Donskoy
+105,2,Havana Brown
+106,2,Thai Cat
+107,2,Ocicat
+108,2,Korat
+109,2,Selkirk Rex
+110,2,Balinese Cat
+111,2,LaPerm
+112,2,Burmilla
+113,2,Snowshoe Cat
+114,2,Tonkinese Cat
+115,2,Cymric
+116,2,American Wirehair
+117,2,Cornish Rex
+118,2,Peterbald
+119,2,Chausie
+120,2,Oriental Longhair
+121,2,Lykoi
+122,3,Monk parakeet
+123,3,Amazon Parrot
+124,3,Pacific Parrotlet
+125,3,Rose-ringed Parakeet
+126,3,Green-cheeked Parakeet
+127,3,Eclectus Parrot
+128,3,Quaker Parrot
+129,3,Military Macaw
+130,3,Lovebird
+131,3,Senegal Parrot
+132,3,Maroon-Bellied Conure
+133,3,Budgerigar
+134,3,Great Green Macaw
+135,3,Red-Shouldered Macaw
+136,3,Little Lorikeet
+137,3,Indian Ringneck Parakeet
+138,3,Painted Parakeet
+139,3,Red-Fronted Macaw
+140,3,Green-Cheeked Conure
+141,3,Scaly-Breasted Lorikeet
+142,3,Australian Ringneck Parrot
+143,3,Spectacled Parrotlet
+144,3,Thick-Billed Parrot
+145,3,Short-Tailed Parrot
+146,3,Scarlet-Shouldered Parrotlet
+147,3,Edward's Fig Parrot
+148,3,Blue-Bellied Parrot
+149,3,Sri Lanka Hanging Parrot
+150,4,Hognose
+151,4,Corn Snake
+152,4,California Kingsnake
+153,4,Rosy Boa
+154,4,Gopher Snake
+155,4,Ball Python
+156,6,Syrian Hamster
+157,6,Chinese Hamster
+158,6,Dwarf Campbell Russian Hamster
+159,6,Dwarf Winter White Russian Hamster
+160,6,Dwarf Roborovski Hamster
+161,5,Betta
+162,5,Goldfish
+163,5,Angelfish
+164,5,Catfish
+165,5,Guppies
+166,5,Mollies
+167,5,Neon Tetras
+168,5,Platies
+169,7,Abyssinian Guinea Pig
+170,7,Alpaca Guinea Pig
+171,7,American Guinea Pig
+172,7,Baldwin Guinea Pig
+173,7,Coronet Guinea Pig
+174,7,Himalayan Guinea Pig
+175,7,Lunkarya Guinea Pig
+176,7,Merino Guinea Pig
+177,7,Peruvian Guinea Pig
+178,7,Rex Guinea Pig
+179,7,Sheba Guinea Pig
+180,7,Silkie Guinea Pig
+181,8,American Fuzzy Lop
+182,8,American Sable
+183,8,Argente Brun
+184,8,Beligian Hare
+185,8,Beveren
+186,8,Blanc de Hotot
+187,8,Britannia Petite
+188,8,Californian
+189,8,Champagne d' Argent
+190,8,Checkered Giant Rabbit
+191,9,African Bullfrog
+192,9,Burmese Chubby Frog
+193,9,Bumblebee Dart Frog
+194,9,African Dwarf Frog
+195,9,Green and Black Dart Frog
+196,9,American Toad
+197,9,Bumble Bee Walking Toad
+198,9,Gray Tree Frog
+199,10,African Sideneck Turtle. 
+200,10,Central American Wood Turtle.
+201,10,Painted Turtle. 
+202,10,Caspian Pond Turtle. 
+203,10,Red Ear Slider Turtle
+204,10,Reeve's Turtle
+205,10,Eastern Box Turtle
+206,10,Eastern Box Turtle
